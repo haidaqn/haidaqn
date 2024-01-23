@@ -20,7 +20,7 @@
 
 
 - 👨‍💻 **Full Stack Web Intern**\
-📆 09/2022 - 05/2023
+📆 09/2022 - 05/2023\
 📍 **TECH 5S** -  Lưu Hữu Phước, Phường Mỹ Đình I, Quận Nam Từ Liêm, Thành phố Hà Nội.
 
 📆 11/2023 - present\
