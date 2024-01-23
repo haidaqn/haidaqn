@@ -21,11 +21,11 @@
 
 - 👨‍💻 **Full Stack Web Intern**\
 📆 09/2022 - 05/2023\
-📍 **TECH 5S** -  Lưu Hữu Phước, Phường Mỹ Đình I, Quận Nam Từ Liêm, Thành phố Hà Nội.
+📍 **TECH 5S** -  Luu Huu Phuong, Phuong My Dinh I, Nam Tu Liem, Hanoi.
 
 - 👨‍💻 **Frontend Web Fresher**\
 📆 11/2023 - present\
-📍 **White Neuron** -  Khu đô thị Mậu Lương, Hà Đông, Hanoi, Vietnam
+📍 **White Neuron** -  Mau Luong, Ha Dong, Hanoi, Vietnam
 </details>
 
 ### 📊 All time development breakdown
