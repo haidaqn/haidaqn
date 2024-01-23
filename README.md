@@ -23,6 +23,7 @@
 📆 09/2022 - 05/2023\
 📍 **TECH 5S** -  Lưu Hữu Phước, Phường Mỹ Đình I, Quận Nam Từ Liêm, Thành phố Hà Nội.
 
+- 👨‍💻 **Frontend Web Intern**\
 📆 11/2023 - present\
 📍 **White Neuron** -  Khu đô thị Mậu Lương, Hà Đông, Hanoi, Vietnam
 </details>
