@@ -20,7 +20,12 @@
 
 
 - 👨‍💻 **Full Stack Web Intern**\
-📆 09/2022 - 05/2023\
+📆 09/2022 - 12/2023\
+📍 **TECH 5S** -  Luu Huu Phuong, Phuong My Dinh I, Nam Tu Liem, Hanoi.
+
+
+- 👨‍💻 **Full Stack Web Fresher**\
+📆 1/2022 - 05/2023\
 📍 **TECH 5S** -  Luu Huu Phuong, Phuong My Dinh I, Nam Tu Liem, Hanoi.
 
 - 👨‍💻 **Frontend Web Fresher**\
