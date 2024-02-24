@@ -38,15 +38,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 January 2024 - To: 21 February 2024
+From: 22 January 2024 - To: 22 February 2024
 
-Total Time: 96 hrs 53 mins
+Total Time: 103 hrs 37 mins
 
-TypeScript   61 hrs 31 mins  ████████████████░░░░░░░░░   63.49 %
-Python       22 hrs 6 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.82 %
-HTML         4 hrs 30 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
-JavaScript   2 hrs 24 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-SCSS         1 hr 11 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+TypeScript   66 hrs 31 mins  ████████████████░░░░░░░░░   64.20 %
+Python       23 hrs 36 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.78 %
+HTML         4 hrs 38 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+JavaScript   2 hrs 24 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+SCSS         1 hr 12 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
 
 <!--END_SECTION:waka-->
