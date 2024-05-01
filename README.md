@@ -11,14 +11,7 @@
 📆 10/2021 - present\
 📍 **Thang Long University** - Hoang Mai, Hanoi, Vietnam
 
-### Experience
-
-<img align="right" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-<img align="right" src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/>
-<img align="right" src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white"/>
-<img align="right" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
-
-
+<!-- ### Experience
 - 👨‍💻 **Full Stack Web Intern**\
 📆 09/2022 - 12/2023\
 📍 **TECH 5S** -  Luu Huu Phuong, Phuong My Dinh I, Nam Tu Liem, Hanoi.
@@ -31,7 +24,7 @@
 - 👨‍💻 **Frontend Web Fresher**\
 📆 11/2023 - present\
 📍 **White Neuron** -  Mau Luong, Ha Dong, Hanoi, Vietnam
-</details>
+</details> -->
 
 ### 📊 All time development breakdown
 
