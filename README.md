@@ -1,7 +1,7 @@
 <p align="center"><img src="asset/header.jpg" width="80%"/></p>
 
 ---
-
+<!-- 
 <details>
   <summary>📃 My Resume</summary>
 
@@ -9,7 +9,7 @@
 
 - 📖 **Information Technology**\
 📆 10/2021 - present\
-📍 **Thang Long University** - Hoang Mai, Hanoi, Vietnam
+📍 **Thang Long University** - Hoang Mai, Hanoi, Vietnam -->
 
 <!-- ### Experience
 - 👨‍💻 **Full Stack Web Intern**\
