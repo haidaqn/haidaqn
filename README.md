@@ -1,4 +1,4 @@
-<p align="center"><img src="asset/header.jpg" width="80%"/></p>
+<!-- <p align="center"><img src="asset/header.jpg" width="80%"/></p> -->
 
 ---
 <!-- 
@@ -26,11 +26,11 @@
 📍 **White Neuron** -  Mau Luong, Ha Dong, Hanoi, Vietnam
 </details> -->
 
-### 📊 All time development breakdown
+<!-- ### 📊 All time development breakdown -->
 
 <!--START_SECTION:waka-->
 
-```txt
+<!-- ```txt
 From: 22 January 2024 - To: 07 October 2024
 
 Total Time: 585 hrs 38 mins
@@ -40,6 +40,6 @@ Python              130 hrs 26 mins █████▓░░░░░░░░�
 JavaScript          31 hrs 27 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
 HTML                11 hrs 18 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
 JSON                9 hrs 1 min     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-```
+``` -->
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka -->
