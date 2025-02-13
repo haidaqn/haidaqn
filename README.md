@@ -5,8 +5,8 @@
 
 - 📖 **Information Technology**\
 📆 10/2021 - present\
-📍 **GPA** - 3.5
-📍 **Thang Long University** - Hoang Mai, Hanoi, Vietnam -->
+📍 **GPA** - 3.5\
+📍 **Thang Long University** - Hoang Mai, Hanoi, Vietnam
 
 ### Experience
 - 👨‍💻 **Full Stack Web Intern**\
