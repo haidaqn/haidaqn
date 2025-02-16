@@ -1,5 +1,5 @@
-<details>
-  <summary>📃 My Resume</summary>
+<!-- <details>
+  <summary>📃 My Resume</summary> -->
 
 ### Education
 
@@ -7,7 +7,7 @@
 📆 10/2021 - present\
 📍 **GPA** - 3.5\
 📍 **Thang Long University** - Hoang Mai, Hanoi, Vietnam
-
+<!-- 
 ### Experience
 - 👨‍💻 **Full Stack Web Intern**\
 📆 09/2022 - 12/2023\
@@ -47,4 +47,4 @@ HTML                11 hrs 18 mins  ▒░░░░░░░░░░░░░�
 JSON                9 hrs 1 min     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
-<!--END_SECTION:waka -->
+END_SECTION:waka -->
