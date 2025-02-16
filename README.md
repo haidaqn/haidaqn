@@ -35,7 +35,7 @@
 
 <!-- <!-- START_SECTION:waka -->
 
-```txt
+<!-- ```txt
 From: 22 January 2024 - To: 07 October 2024
 
 Total Time: 585 hrs 38 mins
@@ -47,4 +47,4 @@ HTML                11 hrs 18 mins  ▒░░░░░░░░░░░░░�
 JSON                9 hrs 1 min     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
-END_SECTION:waka -->
+END_SECTION:waka --> -->
