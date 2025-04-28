@@ -7,7 +7,8 @@
 📆 10/2021 - present\
 📍 **GPA** - 3.5\
 📍 **Thang Long University** - Hoang Mai, Hanoi, Vietnam
-[Portfolio](https://haidaqn.vercel.app/)
+
+### [Portfolio](https://haidaqn.vercel.app/)
 
 <!-- 
 ### Experience
