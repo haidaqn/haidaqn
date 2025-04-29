@@ -4,7 +4,7 @@
 ### Education
 
 - 📖 **Information Technology**\
-📆 10/2021 - present\
+📆 10/2021 - 08/2024\
 📍 **GPA** - 3.5\
 📍 **Thang Long University** - Hoang Mai, Hanoi, Vietnam
 
