@@ -1,14 +1,14 @@
 <!-- <details>
   <summary>📃 My Resume</summary> -->
 
-### Education
-
+<!-- ### Education -->
+<!-- 
 - 📖 **Information Technology**\
 📆 10/2021 - 08/2024\
 📍 **GPA** - 3.5\
-📍 **Thang Long University** - Hoang Mai, Hanoi, Vietnam
+📍 **Thang Long University** - Hoang Mai, Hanoi, Vietnam -->
 
-### [Portfolio](https://haidaqn.vercel.app/)
+ <!-- ### [Portfolio](https://haidaqn.vercel.app/) -->
 
 <!-- 
 ### Experience
